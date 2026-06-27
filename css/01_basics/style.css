@@ -1,0 +1,7 @@
+p {
+    font-weight: bolder;
+    color: aqua; 
+    /* doesnt work bcuz of specificity    */
+    font-size: 20px;
+    padding: 50px;
+}
